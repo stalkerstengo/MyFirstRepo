@@ -1,2 +1,2 @@
 # MyFirstRepo
-This repository was created as part of my journey to learn and practice GitHub, allowing me to explore version control, improve my technical skills, and document my progress as I grow in my academic and professional path.
+This is my first repository was created as part of my journey to learn and practice GitHub, and it will help me practice basic version control and improve my skills as I continue learning.
