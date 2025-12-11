@@ -1,1 +1,1 @@
-Today I learned how to work with branches, pull requests, commits, and collaboration on GitHub. I also understood the importance of version control and how it helps organize work and track changes easily.
+What I have learned from this coure? Today I learned how to work with branches, pull requests, commits, and collaboration on GitHub. I also understood the importance of version control and how it helps organize work and track changes easily.
